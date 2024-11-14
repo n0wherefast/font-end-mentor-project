@@ -16,7 +16,7 @@ function App() {
           </div>
           <div className='w-full flex items-center flex-col gap-3 m-2 text-white font-bold '>
            {links.map((link,idx)=>(
-            <p key={idx} className='flex justify-center items-center rounded-lg bg-[#333] hover:bg-lime-400 hover:text-[#333] w-[85%] h-10 '>{link}</p>
+            <a href='/' key={idx} className='flex justify-center items-center rounded-lg bg-[#333] hover:bg-lime-400 hover:text-[#333] w-[85%] h-10 '>{link}</a>
            ))} 
           </div>
           

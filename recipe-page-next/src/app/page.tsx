@@ -5,7 +5,7 @@ export default function Home() {
  
 
   return (
-    <div className="w-full p-8 h-[100%] flex flex-col justify-center items-center bg-orange-100">
+    <div className="w-full p-32 h-[100%] flex flex-col justify-center items-center bg-orange-100">
       <main className="flex flex-col gap-8 py-10 px-6 items-center  justify-start  bg-white rounded-3xl   w-[50%] ">
         <Image
           className=" w-[50vw] rounded-2xl"

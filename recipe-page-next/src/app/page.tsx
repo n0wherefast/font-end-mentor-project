@@ -22,7 +22,7 @@ export default function Home() {
         </section>
         
         <div className=" w-[95%] flex py-8   gap-4  bg-pink-50 rounded-xl   flex-col items-start">
-            <h2 className=" w-full mx-4 font-bold text-rose-900 text-lg">Preparation time</h2>
+            <h2 className=" w-full mx-4 font-bold text-rose-900 text-lg">Preparation Time</h2>
             <div className="mx-8">
               <ul className=" list-disc flex flex-col  gap-2">
                 <li><strong>Total: </strong> Approximately 10 minutes</li>
